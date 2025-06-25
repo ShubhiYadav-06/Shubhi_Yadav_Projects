@@ -1,6 +1,6 @@
-# 🧠 Sales Data Analysis Dashboard – Brainwave Matrix Internship
+# 🧠 Sales Data Analysis Dashboard 
 
-This project is developed as part of my internship at **Brainwave Matrix**. It focuses on analyzing sales performance using the Superstore dataset and visualizing key business insights through a Power BI dashboard.
+This project focuses on analyzing sales performance using the Superstore dataset and visualizing key business insights through a Power BI dashboard.
 
 ---
 
@@ -36,7 +36,7 @@ This allows for efficient decision-making and identification of growth opportuni
 
 ## 📌 Purpose
 
-To develop data-driven insights using real-world datasets, improve dashboarding skills, and apply analytical thinking as part of a business analytics internship project.
+To develop data-driven insights using real-world datasets, improve dashboarding skills, and apply analytical thinking.
 
 ---
 
